@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+__pycache__/*
+*.db.sqlite3
+*.db.sqlite3-journal
+
+# Caches
+.cached/
+*.log
+*.pot
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# IDE specific files
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor-specific swap files
+*~
+*.swp
